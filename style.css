@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    background: radial-gradient(darkcyan, rgb(26, 28, 29));
+    color: white;
+}
+
+.textarea {
+    border-radius: 5px;
+    width: 60%;
+    font-size: 18px;
+    padding: 20px;
+    height: 350px;
+    box-shadow: 10px 5px slategray;
+}
+
